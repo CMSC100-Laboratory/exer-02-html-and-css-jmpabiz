@@ -31,5 +31,10 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: center;   
+}
+
+.flex-containerPhoto p {
+    font-family: sans-serif;
+    line-height: 0.;
 }
