@@ -26,3 +26,10 @@
     border-width: 2px;
     border-color: red;
 }
+
+.flex-containerPhoto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
